@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{412913EA-B873-4891-AA90-7697F48A1AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "CalculatorTests\CalculatorTests.csproj", "{646528E5-5C5A-45F7-92D3-9FAC79EDD75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412913EA-B873-4891-AA90-7697F48A1AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412913EA-B873-4891-AA90-7697F48A1AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412913EA-B873-4891-AA90-7697F48A1AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412913EA-B873-4891-AA90-7697F48A1AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646528E5-5C5A-45F7-92D3-9FAC79EDD75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646528E5-5C5A-45F7-92D3-9FAC79EDD75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646528E5-5C5A-45F7-92D3-9FAC79EDD75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646528E5-5C5A-45F7-92D3-9FAC79EDD75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
